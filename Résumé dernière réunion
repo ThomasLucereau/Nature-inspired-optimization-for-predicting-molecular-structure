@@ -1,0 +1,14 @@
+- Quels paramètres choisir pour déterminer quel est le meilleur choix de paramètre ?
+- abandonner la structure orientée-objet et utiliser plutot un tableau.
+- paramètre important : le nombre de particules choisies
+- pour comparer, quelle est la difficulté pour choisir les paramètres
+
+Identification des bons paramètres
+
+Ce qu'il faut mettre dans le rapport :
+
+intro avec les pb , les algos, l'objectif, le contexte
+
+ce qu'on a fait, les résultats (on a implémenté tel algo, on a testé sur telle fonction, voici les résultats et leur interprétation)
+
+conclusion sur ce q'on en tire (difficultés, ce qu'on a fait pour les régler)
