@@ -4,7 +4,7 @@
 
 
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/image_projet_artishow.png)
+![Problèmes de Lennard - Jones](https://artishow.r2.enst.fr/uploads/uploads/image_projet_artishow.png)
 
 Problèmes de Lennard - Jones
 #
@@ -21,7 +21,7 @@ Problèmes de Lennard - Jones
 
 #### La recherche aléatoire
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/animationf2_Random.gif)
+![Problèmes de Lennard - Jones](First_half_project/RandomSearch/animationf2.gif) 
 
 *Exemple de recherche aléatoire menée sur une fonction avec beaucoup de minima locaux*
 
@@ -37,9 +37,9 @@ Elle permet surtout de sortir de minima locaux et de garantir un résultat corre
 
 ##### Illustration 1
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/animationf1.gif)
+![Problèmes de Lennard - Jones](First_half_project/SimulatedAnnealing/SA_Thomas/animationf1.gif)
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/energy_f1.png)
+![Problèmes de Lennard - Jones]()
 
 ##### Illustration 2
 
