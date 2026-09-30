@@ -1,59 +1,50 @@
-# Projet Artishow :
+# Artishow Project :
 
- ## Nature-inspired optimization for predicting molecular structure
+## Nature-inspired optimization for predicting molecular structure
 
+![Lennard-Jones Problems](https://artishow.r2.enst.fr/uploads/uploads/image_projet_artishow.png)
 
-
-![Problèmes de Lennard - Jones](https://artishow.r2.enst.fr/uploads/uploads/image_projet_artishow.png)
-
-Problèmes de Lennard - Jones
+Lennard-Jones Problems
 #
-## Organisation du Git :
+## Repository Structure :
 
-- Dossier *RandomSearch* qui regroupe le travail sur la recherche aléatoire
+- *RandomSearch* folder: contains the work on random search.
 
-- Dossier *SimulatedAnnealing* qui regroupe les implémentations de chaque élève du recuit simulé. *Une version finale peut être trouvée dans le dossier SA_Thomas\Version_organisée*
+- *SimulatedAnnealing* folder: contains each student's implementation of simulated annealing. *A final version can be found in the SA_Thomas\Version_organisée folder.*
 
-- Dossier *IllustrationsReadme* qui permet d'illustrer ce Readme
+- *IllustrationsReadme* folder: contains assets used to illustrate this README.
     
 
-## Présentation des résultats :
+## Results Presentation :
 
-#### La recherche aléatoire
+#### Random Search
 
-![Problèmes de Lennard - Jones](First_half_project/RandomSearch/animationf2.gif) 
+![Lennard-Jones Problems](First_half_project/RandomSearch/animationf2.gif) 
 
-*Exemple de recherche aléatoire menée sur une fonction avec beaucoup de minima locaux*
+*Example of a random search performed on a function with numerous local minima.*
 
 
-###### Remarque
-    Cette méthode donne des résultats de qualité fortement variable en plus d'être extrêmement complexe en temps si l'on veut un résultat cohérent (1 million de samples minimum doivent être pris)
+###### Note
+    This method yields results of highly variable quality and is extremely time-consuming if a coherent result is desired (requiring a minimum of 1 million samples).
 
-#### Le recuit simulé ou "simulated annealing"
+#### Simulated Annealing
 
-Cette méthode s'inspire de travaux thermodynamiques sur la cuisson des poteries. Elle en tire aussi son nom. 
+This method draws inspiration from thermodynamic processes used in pottery firing, from which it also derives its name. 
 
-Elle permet surtout de sortir de minima locaux et de garantir un résultat correspondant à un minimum global.
+Most importantly, it enables the algorithm to escape local minima and guarantees convergence toward a global minimum.
 
 ##### Illustration 1
 
-![Problèmes de Lennard - Jones](First_half_project/SimulatedAnnealing/SA_Thomas/animationf1.gif)
+![Lennard-Jones Problems](First_half_project/SimulatedAnnealing/SA_Thomas/animationf1.gif)
 
-![Problèmes de Lennard - Jones]()
+![Lennard-Jones Problems]()
 
 ##### Illustration 2
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/animationf2.gif)
+![Lennard-Jones Problems](IllustrationsReadme/animationf2.gif)
 
-![Problèmes de Lennard - Jones](IllustrationsReadme/energy_f2.png)
+![Lennard-Jones Problems](IllustrationsReadme/energy_f2.png)
 
-###### Remarque :
+###### Note :
 
-    On voit bien sur les diagrammes en énergie que cette méthode permet de sortir de puits pour en trouver des plus bas en énergie.  
-
-
-
-
-
-
-
+    The energy diagrams clearly show that this method successfully escapes energy wells to discover lower-energy states.
